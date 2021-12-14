@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.noether.linguistic.ToBeNamedTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-14T20:21:01" hostname="noether" time="0.046">
+  <properties/>
+  <testcase name="One word matching pattern should return the matching word" classname="fr.noether.linguistic.ToBeNamedTest" time="0.045"/>
+  <testcase name="search nothing in nothing should return nothing" classname="fr.noether.linguistic.ToBeNamedTest" time="0.001"/>
+  <testcase name="Pattern matching nothing in text should return nothing" classname="fr.noether.linguistic.ToBeNamedTest" time="0.0"/>
+  <testcase name="One word matching pattern should have a non empty result" classname="fr.noether.linguistic.ToBeNamedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
